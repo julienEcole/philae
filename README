@@ -1,2 +1,9 @@
 Notre projet de BTS sur lequel nous allons perdre nos nuits et notre santé mentale.
 Notre porjet conciste a améliorer un système existant ayant déjà servi en 2004 pour la mission Philae
+
+Le but de cette partie était d'ajouter un moyen de faire une démonstration du produit sans passer par un ordinateur/téléphone
+ou logiciel tierce.
+Le Code a été fait avec la version .net microframework 4.2 (compillable uniquement sous windows 7) avec la librairie gadgeteer
+Il permet de controller la maquette a l'aide d'une application C++ développé par un de mes collègues ou d'un site web lancé
+par un serveur connecté en USB a la carte microcontrolleur (a la base le serveur devait être sur la carte mais par manque de
+temps et d'espace mémoire on l'as mis sur un ordinateur avec une connexion USB).
